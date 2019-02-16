@@ -1,0 +1,11 @@
+Project Diary/ Battleship
+Loviisa Hurme
+
+Friday 2/8
+Start of the project. Thinking what is important for battleship game
+and writing user story cards.
+
+Sunday 2/10
+Thinking order for the cards.
+Cloning git repository and making diary file.
+Writing first diary entries.

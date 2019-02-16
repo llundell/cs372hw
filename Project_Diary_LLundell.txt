@@ -1,0 +1,29 @@
+Project Diary
+
+8 Feb 19
+Drafted user stories--
+We started getting into the details before realizing we should write down the
+basics of the game requirements. [20 minutes]
+
+Initialized Github repository
+
+11 Feb 19
+Ranked difficulty of user stories--
+Decided on the 1-5 ranking system (1 being easiest) but may consider changing
+this system based on how it works with tracking and measuring progress.
+[20 minutes]
+
+12 Feb 19
+Listened to project presentations from other groups and jotted down some ideas
+we may implement--
+Questions going forward:
+Graphics interface?
+Testing framework?
+Play against an AI agent?
+Leader boards?
+Sound effects?
+Web based?
+Rotate a board?
+
+Other thoughts:
+Implement by test driven development -- why do you need a board? Makes you question

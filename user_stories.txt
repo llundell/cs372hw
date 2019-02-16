@@ -1,0 +1,27 @@
+(Difficulty 1-5) User Stories
+
+(1) As a battleship player, I want the default play to be on a 5*5 board with 3 ships: 1, 2, and 3 squares in length
+
+(3) As a player, I want to be able to place my ships on the board.
+
+(2) As a player, I want to be able to shoot other players’ ships once at every turn.
+
+(1) As a player, I want to be able to know when I win or lose.
+
+(2) As a player, I want to be able to start new game after ending one.
+
+(1) As a first time player, I want to be able to read rules.
+
+(1) As a player I want to be able to shoot again if I make a hit on my opponent’s ship
+
+(3) As a player, I want to be able to name my ships.
+
+(4) As an experienced battleship player, I want to customize the size of the board.
+
+(4) As an experienced player, I want to choose the number and size of ships.
+
+(4) As a player, I want to play with a mouse.
+
+(2) As a player, I want to choose the color of my board and ships.
+
+(5) As a player, I'd like to be able to play a web based game
